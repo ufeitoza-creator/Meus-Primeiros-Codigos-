@@ -1,2 +1,2 @@
-# Meus-Primeiros-Codigos-
-Repositório criado para divulgar pequenos projetos.
+# My first Python code.-
+Repository created to showcase small projects.
